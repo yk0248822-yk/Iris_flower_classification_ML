@@ -26,4 +26,4 @@ This project classifies Iris flowers into three categories:
 The model achieved high accuracy on the test dataset.
 
 # Author
-Yogesh Kumar (B.Tech CSE - Data Science & AI)
+Yogesh Kumar
